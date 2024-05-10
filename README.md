@@ -4,8 +4,8 @@ This Verilog project implements a modulation scheme mapper, capable of mapping i
 **Modules**
 The project consists of the following modules:
 
-**mapper:** Top-level module responsible for selecting and instantiating the appropriate modulation module based on the selected scheme.
-**pi_by_2_BPSK:** Implements π/2 BPSK modulation.
+**mapper:** Top-level module responsible for selecting and instantiating the appropriate modulation module based on the selected scheme.\n
+**pi_by_2_BPSK:** Implements π/2 BPSK modulation
 **bpsk:** Implements BPSK modulation.
 **qpsk:** Implements QPSK modulation.
 **qam_16:** Implements QAM-16 modulation.
